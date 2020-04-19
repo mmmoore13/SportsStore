@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore", "SportsStore\SportsStore.csproj", "{05400735-9BEA-40AD-B156-F82799ED5CE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Tests", "SportsStore.Tests\SportsStore.Tests.csproj", "{1910034E-C901-4803-AC33-3BA0D80D65AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{05400735-9BEA-40AD-B156-F82799ED5CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05400735-9BEA-40AD-B156-F82799ED5CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05400735-9BEA-40AD-B156-F82799ED5CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1910034E-C901-4803-AC33-3BA0D80D65AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1910034E-C901-4803-AC33-3BA0D80D65AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1910034E-C901-4803-AC33-3BA0D80D65AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1910034E-C901-4803-AC33-3BA0D80D65AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
